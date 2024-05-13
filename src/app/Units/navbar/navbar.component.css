@@ -1,0 +1,11 @@
+.nav-link img{
+    width: 20px;
+
+}
+.nav-link{
+    color: white;
+    
+}
+.nav-link:hover{
+    font-weight: bold;
+}
